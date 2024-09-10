@@ -14,6 +14,7 @@ public class Main {
         }for(int i=0; i < 10; i++ ){
             equipe2.getListSalarie().add(new Employe("Patrick"+i,"Martin"+i));
         }
+        equipe2.getListSalarie().add(equipe);
 
         equipe.deplacement();
         equipe2.meeting();

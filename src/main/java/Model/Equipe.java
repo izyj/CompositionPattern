@@ -34,4 +34,5 @@ public class Equipe  implements Salarie {
     public List<Salarie> getListSalarie() {
         return listSalarie;
     }
+
 }
