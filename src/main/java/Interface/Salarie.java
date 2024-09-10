@@ -8,4 +8,6 @@ public interface Salarie {
 
     public void deplacement();
 
+
+
 }
